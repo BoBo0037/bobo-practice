@@ -18,7 +18,7 @@ from matplotlib import pyplot as plt
 #-------------------------------------------
 batch_size = 8
 learning_rate = 1e-3
-num_epochs = 10
+num_epochs = 20
 image_size = 512
 latent_dim = 4
 
